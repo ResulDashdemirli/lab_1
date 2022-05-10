@@ -1,0 +1,41 @@
+.head1{
+    justify-content: center;
+    margin-left: 450px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.templates{
+    text-align: center;
+}
+.html5{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    height: 1260px;
+    width: 300px;
+    font-size: 35px;
+    
+}
+.sidebar{
+    margin-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 280px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+}
+.simple{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.simple1 {
+    
+    display: block;
+    font-size: 30px;
+    font-weight: bold;
+}
